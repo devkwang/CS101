@@ -1,4 +1,7 @@
 CS101
 =====
 
-QCC CS101-14F
+It is a special website for CS101.
+
+You can see the my lecture summaries and source codes here.
+Feel free to ask.
