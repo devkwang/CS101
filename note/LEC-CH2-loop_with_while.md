@@ -96,7 +96,7 @@ Now let us make a code using while statement
 Computer repeats *each task* during condition for the loop is true.
 When condition for the loop is false, computer will stop the loop and move to next part. *increase* part may change the condition, so the loop may stop eventually.
 
-```
+```c++
 int i=1; //initialize
 while(i<=n) // Condition for the loop
 {
